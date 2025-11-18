@@ -1,4 +1,4 @@
-# Market Regime Detection in a Multi Asset ETF Universe
+# Multi Asset ETF Market Regime Detection
 
 This project presents a complete quantitative workflow for identifying market regimes within a diverse set of global exchange traded funds. The goal is to understand how different asset classes behave across distinct market environments using unsupervised learning techniques.  
 The analysis is built using a unique dataset sourced from Bloomberg which contains high quality historical prices and net asset values for 27 ETFs covering major asset classes.
