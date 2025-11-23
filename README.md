@@ -73,7 +73,6 @@ It is an exceptionally rich data source containing:
 • broad representation of global asset classes including  
   equities, bonds, commodities, credit, inflation hedges, factors, and international markets  
 
-Each ETF is stored as a separate sheet within the provided Excel file.  
 
 ---
 
